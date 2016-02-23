@@ -1,1 +1,0 @@
-# JSONAPI-Web-Plugins-Manager
